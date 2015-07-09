@@ -1,4 +1,4 @@
 minipaint
 =========
 
-Mini Paint is built in C++ using BGI Graphics Ligrary.
+Mini Paint is C++ BGI Graphics Project to demonstrate basic paint functionalities.
